@@ -8,7 +8,6 @@
 main()
 {
     char name[15];
-
     printf("Enter your name");
     gets(name);
     printf(name,"You are the best");
